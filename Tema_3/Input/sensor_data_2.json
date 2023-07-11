@@ -1,0 +1,9 @@
+{
+  "sensors": [
+    {
+      "sensor_name": "motion_outside",
+      "value": 1,
+      "timestamp": "2023-03-27 19:47:33"
+    }
+  ]
+}

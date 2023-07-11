@@ -1,0 +1,9 @@
+{
+  "sensors": [
+    {
+      "sensor_name": "force",
+      "value": 60,
+      "timestamp": "2023-03-27 19:47:34"
+    }
+  ]
+}
